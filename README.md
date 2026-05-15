@@ -88,7 +88,7 @@ The project uses the publicly available **Credit Card Fraud Detection Dataset** 
 ## 🏠 Main Dashboard
 
 <p align="center">
-  <img src="screenshots/dashboard_home.png" width="100%">
+  <img src="./preview/DASHBOARD.png" width="100%">
 </p>
 
 ---
@@ -96,7 +96,7 @@ The project uses the publicly available **Credit Card Fraud Detection Dataset** 
 ## 📂 Dataset Preview
 
 <p align="center">
-  <img src="screenshots/dataset_preview.png" width="100%">
+  <img src="./preview/DATASET_PREVIEW.png" width="100%">
 </p>
 
 ---
@@ -104,7 +104,7 @@ The project uses the publicly available **Credit Card Fraud Detection Dataset** 
 ## 📊 Risk Analysis Summary
 
 <p align="center">
-  <img src="screenshots/risk_summary.png" width="100%">
+  <img src="./preview/Risk%20Analysis%20Summary.png" width="100%">
 </p>
 
 ---
@@ -112,7 +112,7 @@ The project uses the publicly available **Credit Card Fraud Detection Dataset** 
 ## 📈 Transaction Insights
 
 <p align="center">
-  <img src="screenshots/transaction_insights.png" width="100%">
+  <img src="./preview/VISUALIZATIONS.png" width="100%">
 </p>
 
 ---
@@ -120,7 +120,7 @@ The project uses the publicly available **Credit Card Fraud Detection Dataset** 
 ## 🚨 Flagged Transactions
 
 <p align="center">
-  <img src="screenshots/flagged_transactions.png" width="100%">
+  <img src="./preview/transactions.png" width="100%">
 </p>
 
 ---

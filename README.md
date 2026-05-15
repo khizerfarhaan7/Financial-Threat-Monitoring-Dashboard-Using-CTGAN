@@ -1,10 +1,6 @@
 # 🛡️ Financial Threat Monitoring Dashboard
 
 <p align="center">
-  <img src="screenshots/dashboard_home.png" width="100%" alt="Financial Threat Monitoring Dashboard">
-</p>
-
-<p align="center">
   <b>AI-Powered Financial Risk Monitoring System using Machine Learning and CTGAN Synthetic Fraud Generation</b>
 </p>
 
@@ -13,9 +9,9 @@
 # 🌐 Live Demo
 
 🚀 Streamlit App:  
-https://your-streamlit-link.streamlit.app/
+[Launch Live Dashboard](https://financial-threat-monitoring-dashboard-using-ctgan.streamlit.app/)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-link.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://financial-threat-monitoring-dashboard-using-ctgan.streamlit.app/)
 
 ---
 
